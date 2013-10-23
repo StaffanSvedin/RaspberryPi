@@ -1,0 +1,27 @@
+buy pi+cabinet+4GB - check 2013-10-22
+install os  - check 2013-10-22 (first reboot after NOOBS install failed, power off-on, ok)
+boot w display, kbd & mouse - check 2013-10-22
+boot w wired network - ?
+boot w wlan - ?
+
+connect with huawei E1750 (Telia prepaid)
+http://shkspr.mobi/blog/2012/07/3g-internet-on-raspberry-pi-success/
+
+battery powered ups
+
+db to store sms addresses and logged data
+log power-fail
+log power back to normal
+log temperature indoor
+log temperature outdoor
+log temperature water
+log humididty indoor
+turnon/log hp +20C
+turnon/log hp +10C
+turnoff/log hp off
+turnon/log waterpump
+turnoff/log waterpump
+turnon/log heated water
+turnoff/log heated water
+turnon/log outdoor illumination
+turnoff/log outdoor illumination
