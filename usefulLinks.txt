@@ -3,6 +3,7 @@ install os  - check 2013-10-22 (first reboot after NOOBS install failed, power o
 boot w display, kbd & mouse - check 2013-10-22
 boot w wired network - ?
 boot w wlan - ?
+connect i/o-board
 
 connect with huawei E1750 (Telia prepaid)
 http://shkspr.mobi/blog/2012/07/3g-internet-on-raspberry-pi-success/
